@@ -14,9 +14,8 @@
 }
 
 .welcome-text{
-    font-family: 'Inter', sans-serif;
-    font-weight: bold;
-    font-size: 10vw;
+    font-family: 'Anton', sans-serif;
+    font-size: 20vw;
     color: #F0F0EA;
     margin: 0;
     overflow: hidden;

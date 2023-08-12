@@ -1,0 +1,50 @@
+.carousel1 {
+    animation: carousel_animation 8s linear infinite;
+    width: 120%;
+    position: absolute;
+
+}
+
+.carousel2 {
+    position: absolute;
+    width: 120%;
+    transform: translateX(-100%);
+    animation: carousel_animation2 8s linear infinite;
+}
+
+.carousel{
+    width: 100%;
+    min-height: 50px ;
+    overflow:hidden;
+    position: relative;
+    background-color: white;
+    align-items: left;
+    vertical-align: center;
+}
+
+.carousel-picture{
+    height: 50px;
+}
+
+@keyframes carousel_animation {
+    0%   {transform: translateX(0);}
+    100% {transform: translateX(-100%);}
+}
+
+@keyframes carousel_animation2 {
+    0%   {transform: translateX(100%);}
+    100% {transform: translateX(0);}
+}
+
+
+@media screen and (min-width: 800px) {
+    .carousel-picture{
+        height: 100px;
+    }
+
+    .carousel{
+        min-height: 100px ;
+
+    }
+    
+}

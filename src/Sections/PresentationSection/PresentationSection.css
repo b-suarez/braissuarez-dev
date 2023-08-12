@@ -7,4 +7,19 @@
 
 .about-me-picture{
     max-width: 100%;
+    max-height: 35vh;
+    text-align: right;
+    border: 2px;
+}
+
+.profile-image-container{
+    text-align:center;
+}
+
+
+
+@media screen and (min-width: 460px) {
+    .profile-image-container{
+        text-align:right;
+    }
 }

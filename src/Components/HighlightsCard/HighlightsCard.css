@@ -2,10 +2,11 @@
     min-height: 400px;
     width: 100%;
     height: fit-content;
+    border-radius: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    position: static;
     transition: all .5s ease; /* back to normal */
 }
 .card-copy{
@@ -51,7 +52,7 @@
     
     .card-highlight:hover .card-copy{
         opacity: 1;
-        font-size: 1.2vw;
+        font-size: 18px;
     }
   }
   
@@ -65,7 +66,7 @@
     
     .card-highlight:hover .card-copy{
         opacity: 1;
-        font-size: 1.2vw;
+        font-size: 18px;
         
     }
 }

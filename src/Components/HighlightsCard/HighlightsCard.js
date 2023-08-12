@@ -12,7 +12,7 @@ class HighlightsCard extends Component {
                 src={require('./images/' + this.props.highlightName + ".png")}
                 alt="Me, handsome eh?"
             />
-                <p className='card-copy standard-text'> a isd naos idnasoidn aoqoiwe qwoei nqwoeinqwoi enqwoie qweiqwn eoqwien oqwno iudsabdua aius biasud baisudsu a</p>
+                <p className='card-copy standard-text'>{this.props.highlightDescription}</p>
         </div>
       </div>
      
