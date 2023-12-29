@@ -45,7 +45,7 @@ class CompaniesCarousel extends Component {
 						direction="row"
 						justifyContent="end"
 						spacing={2}
-						className="max-height"
+					
 					>
 						{/* LOOP TO CREATE THE CARDS */}
 						{Object.keys(highlights).map((key) => {

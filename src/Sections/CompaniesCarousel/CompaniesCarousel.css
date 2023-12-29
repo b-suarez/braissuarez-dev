@@ -2,7 +2,6 @@
     animation: carousel_animation 8s linear infinite;
     width: 120%;
     position: absolute;
-
 }
 
 .carousel2 {
@@ -39,11 +38,11 @@
 
 @media screen and (min-width: 800px) {
     .carousel-picture{
-        height: 100px;
+        height: 125px;
     }
 
     .carousel{
-        min-height: 100px ;
+        min-height: 125px ;
 
     }
     
