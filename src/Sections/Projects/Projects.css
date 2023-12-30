@@ -1,0 +1,15 @@
+.project-number{
+    font-size: 72px;
+    text-align: left;
+    font-weight: bold;
+    font-family: "Bebas";
+    margin: 0;
+    color: orange;
+}
+.project-title{
+    font-weight: bold;
+    font-family: "Bebas";
+    font-size: 36px;
+    text-align: left;
+    margin: 5px;
+}

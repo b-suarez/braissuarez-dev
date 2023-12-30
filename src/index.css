@@ -22,3 +22,8 @@ code {
   font-family: 'Inter';
   src: local('Inter'), url(../public/fonts/Inter/Inter/Inter-VariableFont_slnt\,wght.ttf) format('ttf');
 }
+
+@font-face {
+  font-family: 'Bebas';
+  src: local('Bebas'), url(../public/fonts/Bebas/Bebas-Regular.otf) format('otf');
+}

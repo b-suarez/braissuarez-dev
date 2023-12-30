@@ -6,15 +6,19 @@ import HighlightsSection from './Sections/HighlightsSection/HighlightsSection';
 import QuoteSection from './Sections/QuoteSection/QuoteSection';
 import CompaniesCarousel from './Sections/CompaniesCarousel/CompaniesCarousel';
 import ContactSection from './Sections/ContactSection/ContactSection';
+import Projects from './Sections/Projects/Projects';
 
 function App() {
   return (
     <div className="App">
+      
       <WelcomeSection/>
       <PresentationSection/>
-	    <HighlightsSection/>
+	    <Projects/>
       <QuoteSection/>
       <CompaniesCarousel/>
+      <HighlightsSection/>
+      
       <ContactSection/>
     </div>
   );
