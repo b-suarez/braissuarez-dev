@@ -42,6 +42,7 @@ class Projects extends Component{
 						return (
 							<ProjectTab
                                 sizeTab={tabWidth}
+								mobileSizeTab={this.state.selectedProjectNumber == index+1 ?6 : 3}
 								projectNumber={index+1}
 								projectTitle={key}
 								projectSummary={projects[key]}

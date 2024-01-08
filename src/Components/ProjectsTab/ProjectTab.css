@@ -13,12 +13,15 @@
     text-align: left;
     margin: 5px;
     margin-left: 0;
+    overflow: hidden;
 }
 
 .project-summary{
     text-align: justify;
+    overflow: hidden;
 }
 
 .container-tab{
     padding: 10px;
+    overflow: hidden;
 }

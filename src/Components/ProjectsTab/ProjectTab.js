@@ -10,7 +10,7 @@ class ProjectTab extends Component {
 
 	render() {
 		return (
-			<Grid item xs={this.props.sizeTab} className="container-tab">
+			<Grid item xs={this.props.mobileSizeTab} md={this.props.sizeTab} className="container-tab">
 				<ButtonBase onClick={(e) => this.sendProjectClicked(this.props.projectTitle, this.props.projectNumber)}>
 					<Grid container direction="column" justifyContent="end">
 						<Grid item xs={4}>
