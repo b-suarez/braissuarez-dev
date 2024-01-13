@@ -13,3 +13,24 @@
     text-align: left;
     margin: 5px;
 }
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .project-summary{
+        display: none;
+    }
+    .project-summary-mobile{
+        display: inline;
+    }
+}
+@media only screen and (min-width: 600px) {
+    
+    .project-summary{
+        text-align: justify;
+        overflow: hidden;
+    }
+    .project-summary-mobile{
+        display: none;
+    }
+}
