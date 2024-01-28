@@ -5,10 +5,13 @@ import SectionHeader from "../../Components/SectionHeader/SectionHeader";
 import HighlightsCard from "../../Components/HighlightsCard/HighlightsCard";
 
 const highlights = {
+  // 'rkt':'During the Pandemic lockdown I designed and developed my own game for Android,' + 
+  // 'RKT: Hand Eye Coordination Challenged, which was highlighted as editors choice by the Google Team.',
+  'mediamonks':'Worked for almost 5 years in the biggest digital agency in the world where I moved,' + 
+  'from QA, to Project Manager to Data Scientist for some of the biggest clients the company had.',
     'tokyo2020':'I worked as Project Manager for the Digital Media team of both Tokyo 2020' 
     + 'and Beijing 2022 Olympic games, where I managed the team that delivered the sports data digital layouts.', 
-    'rkt':'During the Pandemic lockdown I designed and developed my own game for Android,' + 
-    'RKT: Hand Eye Coordination Challenged, which was highlighted as editors choice by the Google Team.',
+   
     'euroleague':'Currently, I manage the roadmap or the Digital Ecosuystem at the Basketball Euroleague,' + 
     ' which includes, Games, apps, webs and activations.'
 }
@@ -18,7 +21,7 @@ class HighlightsSection extends Component {
     return (
       <div className="section-padding max-height">
         {/* HERE WE DEFINE THE SECTION HEADER */}
-        <SectionHeader sectionName="HIGHLIGHTS" />
+        <SectionHeader sectionName="CAREER" />
 
         {/* HERE WE DEFINE THE SECTION CONTENT */}
         <Grid

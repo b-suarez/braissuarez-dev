@@ -5,7 +5,7 @@ import { Grid } from "@mui/material";
 class ContactSection extends Component {
 	render() {
 		return (
-			<div className="card-content">
+			<div className="card-content card-contact">
 				<a href="https://www.linkedin.com/in/brais-suarez-souto/">
 					<img
 						className="logo-contact"

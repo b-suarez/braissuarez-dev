@@ -19,6 +19,7 @@
 @media only screen and (max-width: 600px) {
     .project-summary{
         display: inline;
+        margin-right: 5px;
     }
     .project-summary-mobile{
         display: inline;
@@ -29,6 +30,7 @@
     .project-summary{
         text-align: justify;
         overflow: hidden;
+        margin-right: 25px;
     }
 
 }
