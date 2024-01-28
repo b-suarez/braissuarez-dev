@@ -7,6 +7,9 @@ import QuoteSection from './Sections/QuoteSection/QuoteSection';
 import CompaniesCarousel from './Sections/CompaniesCarousel/CompaniesCarousel';
 import ContactSection from './Sections/ContactSection/ContactSection';
 import Projects from './Sections/Projects/Projects';
+import { Accordion } from '@mui/material';
+import FAQ from './Components/FAQ/FAQ';
+import ProjectsNoAnimation from './Sections/ProjectsNoAnimation/ProjectsNoAnimation';
 
 function App() {
   return (
@@ -14,12 +17,14 @@ function App() {
       
       <WelcomeSection/>
       <PresentationSection/>
-	    <Projects/>
+      <HighlightsSection/>
+	    
       <QuoteSection/>
       <CompaniesCarousel/>
-      <HighlightsSection/>
-      
+      <ProjectsNoAnimation/>
+      <FAQ/>
       <ContactSection/>
+      
     </div>
   );
 }

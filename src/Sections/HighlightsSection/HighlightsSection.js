@@ -8,7 +8,9 @@ const highlights = {
     'tokyo2020':'I worked as Project Manager for the Digital Media team of both Tokyo 2020' 
     + 'and Beijing 2022 Olympic games, where I managed the team that delivered the sports data digital layouts.', 
     'rkt':'During the Pandemic lockdown I designed and developed my own game for Android,' + 
-    'RKT: Hand Eye Coordination Challenged, which was highlighted as editors choice by the Google Team.'
+    'RKT: Hand Eye Coordination Challenged, which was highlighted as editors choice by the Google Team.',
+    'euroleague':'Currently, I manage the roadmap or the Digital Ecosuystem at the Basketball Euroleague,' + 
+    ' which includes, Games, apps, webs and activations.'
 }
 
 class HighlightsSection extends Component {
