@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.47e57d0b.css",
-    "main.js": "/static/js/main.7c448ac5.js",
-    "static/js/787.71613bc9.chunk.js": "/static/js/787.71613bc9.chunk.js",
-    "static/media/Inter-VariableFont_slnt,wght.ttf": "/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
-    "static/media/rkt.png": "/static/media/rkt.5ed5f6e966a328ef8fe8.png",
-    "static/media/tokyo2020.png": "/static/media/tokyo2020.753431b7661270b4da10.png",
-    "static/media/caraicon2.jpg": "/static/media/caraicon2.e644cfac341b6fb6fe43.jpg",
-    "static/media/lemans.ttf": "/static/media/lemans.f367d5486a41c6ed62ce.ttf",
-    "static/media/riot.png": "/static/media/riot.896834d2c3b79acc1c8a.png",
-    "static/media/github.png": "/static/media/github.e0d047d1b86f5c75a211.png",
-    "static/media/euroleague.png": "/static/media/euroleague.3158d03c867b89f7f117.png",
-    "static/media/mediamonks.png": "/static/media/mediamonks.152c6e493e488ff6fecf.png",
-    "static/media/old-spice.png": "/static/media/old-spice.388730db95b69e7d017f.png",
-    "static/media/red-bull.png": "/static/media/red-bull.8afe7424bcfcda42a3d1.png",
-    "static/media/hp.png": "/static/media/hp.8158cf59755b489580ba.png",
-    "static/media/oreo.png": "/static/media/oreo.0ef94d7e6c25d73725d6.png",
-    "static/media/Bebas-Regular.otf": "/static/media/Bebas-Regular.4468171832950e2d1d82.otf",
-    "index.html": "/index.html",
-    "main.47e57d0b.css.map": "/static/css/main.47e57d0b.css.map",
-    "main.7c448ac5.js.map": "/static/js/main.7c448ac5.js.map",
-    "787.71613bc9.chunk.js.map": "/static/js/787.71613bc9.chunk.js.map"
+    "main.css": "/braissuarez-dev/static/css/main.63a0ec32.css",
+    "main.js": "/braissuarez-dev/static/js/main.315c0fa1.js",
+    "static/js/787.71613bc9.chunk.js": "/braissuarez-dev/static/js/787.71613bc9.chunk.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/braissuarez-dev/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "static/media/rkt.png": "/braissuarez-dev/static/media/rkt.5ed5f6e966a328ef8fe8.png",
+    "static/media/tokyo2020.png": "/braissuarez-dev/static/media/tokyo2020.753431b7661270b4da10.png",
+    "static/media/caraicon2.jpg": "/braissuarez-dev/static/media/caraicon2.e644cfac341b6fb6fe43.jpg",
+    "static/media/lemans.ttf": "/braissuarez-dev/static/media/lemans.f367d5486a41c6ed62ce.ttf",
+    "static/media/riot.png": "/braissuarez-dev/static/media/riot.896834d2c3b79acc1c8a.png",
+    "static/media/github.png": "/braissuarez-dev/static/media/github.e0d047d1b86f5c75a211.png",
+    "static/media/euroleague.png": "/braissuarez-dev/static/media/euroleague.3158d03c867b89f7f117.png",
+    "static/media/mediamonks.png": "/braissuarez-dev/static/media/mediamonks.152c6e493e488ff6fecf.png",
+    "static/media/old-spice.png": "/braissuarez-dev/static/media/old-spice.388730db95b69e7d017f.png",
+    "static/media/red-bull.png": "/braissuarez-dev/static/media/red-bull.8afe7424bcfcda42a3d1.png",
+    "static/media/hp.png": "/braissuarez-dev/static/media/hp.8158cf59755b489580ba.png",
+    "static/media/oreo.png": "/braissuarez-dev/static/media/oreo.0ef94d7e6c25d73725d6.png",
+    "static/media/Bebas-Regular.otf": "/braissuarez-dev/static/media/Bebas-Regular.4468171832950e2d1d82.otf",
+    "index.html": "/braissuarez-dev/index.html",
+    "main.63a0ec32.css.map": "/braissuarez-dev/static/css/main.63a0ec32.css.map",
+    "main.315c0fa1.js.map": "/braissuarez-dev/static/js/main.315c0fa1.js.map",
+    "787.71613bc9.chunk.js.map": "/braissuarez-dev/static/js/787.71613bc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47e57d0b.css",
-    "static/js/main.7c448ac5.js"
+    "static/css/main.63a0ec32.css",
+    "static/js/main.315c0fa1.js"
   ]
 }
