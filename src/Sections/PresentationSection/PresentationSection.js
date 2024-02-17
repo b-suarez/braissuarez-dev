@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./PresentationSection.css";
 import { Grid } from "@mui/material";
-import photo from "./images/profile.png";
+import photo from "./images/caraicon2.jpg";
 import SectionHeader from "../../Components/SectionHeader/SectionHeader";
 
 const theCopy = [

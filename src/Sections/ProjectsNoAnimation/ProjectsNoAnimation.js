@@ -14,9 +14,9 @@ const projects = {
 		"comprehensive understanding of what the market offers and what's achievable.",
 	"Master of None":
 		"I hold certification as a Google Cloud engineer and have worked as a Data Scientist, though my " +
-		"initial background was in game design and development. Despite this, I've spent the majority of " +
+		"background is in game design and development. I've spent the majority of " +
 		"my career in managerial roles. This unique blend of technical expertise and managerial experience " +
-		"enables me to confidently navigate any digital environment, seamlessly fitting into any professional setting.",
+		"enables me to confidently navigate any digital environment.",
 };
 
 class ProjectsNoAnimation extends Component {
