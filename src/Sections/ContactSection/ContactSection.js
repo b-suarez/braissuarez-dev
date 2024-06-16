@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./ContactSection.css";
-import { Grid } from "@mui/material";
 
 class ContactSection extends Component {
 	render() {
