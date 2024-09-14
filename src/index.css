@@ -1,29 +1,37 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #F0F0EA;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: #f0f0ea;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
 }
 
 @font-face {
-  font-family: 'lemans';
-  src: local('lemans'), url(../public/fonts/LeMans/lemans.ttf) format('ttf');
+	font-family: "lemans";
+	src: local("lemans"), url(../public/fonts/LeMans/lemans.ttf) format("ttf");
 }
 
 @font-face {
-  font-family: 'Inter';
-  src: local('Inter'), url(../public/fonts/Inter/Inter/Inter-VariableFont_slnt\,wght.ttf) format('ttf');
+	font-family: "Inter";
+	src: local("Inter"),
+		url(../public/fonts/Inter/Inter/Inter-VariableFont.ttf) format("ttf");
 }
 
 @font-face {
-  font-family: 'Bebas';
-  src: local('Bebas'), url(../public/fonts/Bebas/Bebas-Regular.otf) format('otf');
+	font-family: "Bebas";
+	src: local("Bebas"),
+		url(../public/fonts/Bebas/Bebas-Regular.otf) format("otf");
+}
+
+@font-face {
+	font-family: "Poppins";
+	src: local("Poppins"),
+		url(../public/fonts/Poppins/Poppins-Regular.ttf) format("ttf");
 }

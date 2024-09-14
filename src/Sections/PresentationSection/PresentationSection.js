@@ -1,18 +1,15 @@
 import React, { Component } from "react";
 import "./PresentationSection.css";
 import { Grid } from "@mui/material";
-import photo from "./images/caraicon2.jpg";
+import photo from "./images/vinil-icon.png";
 import SectionHeader from "../../Components/SectionHeader/SectionHeader";
 
 const theCopy = [
-	"Hello traveler! My name is Brais and this is my interwebs corner.",
-	"I am a Software Engineer with a bunch of Years of experience in Digital Media, with a Masters in Data Science" +
-		" and a Bachelor in Multimedia Engineering.",
-	"As a professional, I have worked as a QA Tester, Project Manager, Data Scientist and Fullstack developer for companies" +
-		" of various sizes, mostly on the area of videogames and digital marketing. As you can see I am a curious person " +
-		"by nature, I have tried multiple roles and love to learn new things.",
-	"On a personal note, I am kind of a sports addict. I was a SpeedSkater for all my youth and lately you might find me " +
-		"playing football or padel whenever I can.",
+	"Greetings, wanderer! I am Brais, and you have stumbled upon my humble corner of the interwebs.",
+	"As a seasoned Software Engineer, I bring forth many years of experience in the realm of Digital Media. My journey is fortified with a Master's in Data Science and a Bachelor's in Multimedia Engineering.",
+	"Throughout my quest, I have donned various mantles: QA Tester, Project Manager, Data Scientist, and Fullstack Developer. My path has led me to collaborate with companies of diverse sizes, particularly within the enchanting domains of video games and digital marketing. Ever the curious soul, I relish in exploring new roles and acquiring new knowledge.",
+	"Beyond the world of code, I am a devotee of sports. In my youth, I was a SpeedSkater, and in recent times, you may find me engaging in football or padel whenever the opportunity arises.",
+	"And yes, I asked Chat GPT to write my intro based on Tolkien writing.",
 ];
 
 class PresentationSection extends Component {

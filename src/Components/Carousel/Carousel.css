@@ -1,0 +1,31 @@
+.carousel-dots {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	padding: 0 0 20px;
+}
+
+.dot {
+	width: 15px;
+	height: 15px;
+	background-color: #ccc;
+	border-radius: 7.5px;
+	transition: width 0.7s ease, background-color 0.7s ease;
+	cursor: pointer;
+	border: none; /* Ensure no border */
+	box-sizing: content-box; /* Prevent padding/border from affecting the size */
+}
+
+.dot.selected {
+	width: 100px; /* 15px + 50% of 15px */
+	background-color: #333;
+	border-radius: 7.5px; /* Half of the height to maintain a circular shape */
+	border: none; /* Ensure no border */
+}
+
+@media (min-width: 768px) {
+	.carousel-dots {
+		justify-content: flex-end;
+	}
+}

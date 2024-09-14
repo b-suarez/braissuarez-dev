@@ -1,18 +1,16 @@
-.standard-text{
-    font-family: 'Inter', sans-serif;
-    font-size: 12px;
+.standard-text {
+	font-family: "Poppins", sans-serif;
+	font-size: 12px;
 }
 
 @media screen and (min-width: 460px) {
-    .standard-text{
-        font-family: 'Inter', sans-serif;
-        font-size: 12px;
-    }
-  }
-  
-  @media screen and (min-width: 800px) {
-    .standard-text{
-        font-family: 'Inter', sans-serif;
-        font-size: 1.2vw;
-    }
+	.standard-text {
+		font-size: 15px;
+	}
+}
+
+@media screen and (min-width: 800px) {
+	.standard-text {
+		font-size: 18px;
+	}
 }

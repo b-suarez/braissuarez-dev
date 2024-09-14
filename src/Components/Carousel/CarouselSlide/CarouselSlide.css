@@ -1,0 +1,96 @@
+/* General styles */
+.slide-background {
+	background-color: #f0f0ea;
+	overflow: hidden;
+	border-radius: 10px; /* Add rounded corners */
+	display: flex; /* Use flexbox for centering */
+	align-items: center; /* Vertically center items */
+}
+
+/* Image styles */
+.slide-image img {
+	max-width: 100%;
+	height: auto;
+	object-fit: cover;
+	border-radius: 10px; /* Add rounded corners to the image */
+	margin-bottom: 15px; /* Add space below the image */
+}
+
+/* Content styles */
+.slide-content {
+	text-align: justify;
+	padding-left: 15px;
+	flex: 1; /* Allow content to grow and fill space */
+}
+
+.headline {
+	font-family: "Bebas", sans-serif; /* Change to a more prominent font */
+	font-weight: bold;
+	color: #333;
+	font-size: 24px;
+	margin: 0 0 20px; /* Add bottom margin for spacing */
+}
+
+@media screen and (min-width: 460px) {
+	.headline {
+		font-size: 30px;
+	}
+}
+
+@media screen and (min-width: 800px) {
+	.headline {
+		font-size: 36px;
+	}
+}
+
+.standard-text {
+	margin: 0 0 10px; /* Add bottom margin for spacing */
+}
+
+.title {
+	font-weight: bolder;
+	color: #333;
+}
+
+.description {
+	font-weight: lighter;
+	color: #666;
+}
+
+/* CTA styles */
+.slide-cta {
+	display: block; /* Make the CTA button block-level */
+	width: 100%; /* Full width */
+	margin-top: 10px;
+	padding: 12px 20px;
+	background-color: orange; /* Coral color */
+	color: white;
+	text-decoration: none;
+	border-radius: 5px; /* Rounded corners */
+	font-family: "Arial", sans-serif; /* Change font for better readability */
+	font-size: 16px; /* Increase font size */
+	font-weight: bold; /* Make text bold */
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+	transition: all 0.3s ease; /* Smooth transition for all properties */
+	text-align: center;
+	box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+.slide-cta:hover {
+	background-color: #e06b3f; /* Darker shade of coral */
+	transform: translateY(-3px); /* Lift the button slightly */
+	box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* Enhance shadow on hover */
+}
+
+.slide-cta:active {
+	background-color: #cc5c37; /* Even darker shade for active state */
+	transform: translateY(0); /* Reset the lift */
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Reset shadow */
+}
+
+@media screen and (max-width: 460px) {
+	.slide-content {
+		padding-left: 0;
+		padding-right: 0;
+	}
+}

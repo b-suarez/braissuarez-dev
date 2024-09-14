@@ -5,44 +5,46 @@ import SectionHeader from "../../Components/SectionHeader/SectionHeader";
 import HighlightsCard from "../../Components/HighlightsCard/HighlightsCard";
 
 const highlights = {
-  // 'rkt':'During the Pandemic lockdown I designed and developed my own game for Android,' + 
-  // 'RKT: Hand Eye Coordination Challenged, which was highlighted as editors choice by the Google Team.',
-  'mediamonks':'Worked for almost 5 years in the biggest digital agency in the world where I moved,' + 
-  'from QA, to Project Manager to Data Scientist for some of the biggest clients the company had.',
-    'tokyo2020':'I worked as Project Manager for the Digital Media team of both Tokyo 2020' 
-    + 'and Beijing 2022 Olympic games, where I managed the team that delivered the sports data digital layouts.', 
-   
-    'euroleague':'Currently, I manage the roadmap or the Digital Ecosuystem at the Basketball Euroleague,' + 
-    ' which includes, Games, apps, webs and activations.'
-}
+	mediamonks:
+		"At MediaMonks, I spent nearly five years evolving from QA to Project Manager and Data Scientist, serving top clients at the world’s largest digital agency.",
+
+	tokyo2020:
+		"I managed the Digital Media team for the Tokyo 2020 and Beijing 2022 Olympics, overseeing the creation of sports data digital layouts.",
+
+	euroleague:
+		"I currently manage the digital roadmap for the Basketball Euroleague, including games, apps, websites, and activations.",
+};
 
 class HighlightsSection extends Component {
-  render() {
-    return (
-      <div className="section-padding max-height">
-        {/* HERE WE DEFINE THE SECTION HEADER */}
-        <SectionHeader sectionName="CAREER" />
+	render() {
+		return (
+			<div className="section-padding max-height">
+				{/* HERE WE DEFINE THE SECTION HEADER */}
+				<SectionHeader sectionName="CAREER" />
 
-        {/* HERE WE DEFINE THE SECTION CONTENT */}
-        <Grid
-          container
-          direction="row"
-          justifyContent="end"
-          spacing={2}
-          className="max-height"
-        >
-            {/* LOOP TO CREATE THE CARDS */}
-            {Object.keys(highlights).map(key => {
-                return (
-                    <Grid item sm={3} m={1} xs={12} key={key}>
-                        <HighlightsCard highlightName={key} highlightDescription={highlights[key]}/>
-                    </Grid>
-                );
-            })}
-        </Grid>
-      </div>
-    );
-  }
+				{/* HERE WE DEFINE THE SECTION CONTENT */}
+				<Grid
+					container
+					direction="row"
+					justifyContent="end"
+					spacing={2}
+					className="max-height"
+				>
+					{/* LOOP TO CREATE THE CARDS */}
+					{Object.keys(highlights).map((key) => {
+						return (
+							<Grid item sm={3} m={1} xs={12} key={key}>
+								<HighlightsCard
+									highlightName={key}
+									highlightDescription={highlights[key]}
+								/>
+							</Grid>
+						);
+					})}
+				</Grid>
+			</div>
+		);
+	}
 }
 
 export default HighlightsSection;
