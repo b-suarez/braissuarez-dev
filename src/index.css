@@ -15,23 +15,20 @@ code {
 
 @font-face {
 	font-family: "lemans";
-	src: local("lemans"), url(../public/fonts/LeMans/lemans.ttf) format("ttf");
+	src: local("lemans"), url(../public/fonts/LeMans/lemans.ttf);
 }
 
 @font-face {
 	font-family: "Inter";
-	src: local("Inter"),
-		url(../public/fonts/Inter/Inter/Inter-VariableFont.ttf) format("ttf");
+	src: local("Inter"), url(../public/fonts/Inter/Inter/Inter-VariableFont.ttf);
 }
 
 @font-face {
 	font-family: "Bebas";
-	src: local("Bebas"),
-		url(../public/fonts/Bebas/Bebas-Regular.otf) format("otf");
+	src: local("Bebas"), url(../public/fonts/Bebas/Bebas-Regular.otf);
 }
 
 @font-face {
 	font-family: "Poppins";
-	src: local("Poppins"),
-		url(../public/fonts/Poppins/Poppins-Regular.ttf) format("ttf");
+	src: local("Poppins"), url(../public/fonts/Poppins/Poppins-Regular.ttf);
 }
