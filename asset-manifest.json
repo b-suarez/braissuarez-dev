@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/braissuarez-dev/static/css/main.f6fd76f0.css",
+    "main.css": "/braissuarez-dev/static/css/main.50c6c9bb.css",
     "main.js": "/braissuarez-dev/static/js/main.f297891e.js",
     "static/js/787.71613bc9.chunk.js": "/braissuarez-dev/static/js/787.71613bc9.chunk.js",
     "static/media/Inter-VariableFont.ttf": "/braissuarez-dev/static/media/Inter-VariableFont.aadb65ac45347ff46699.ttf",
@@ -23,12 +23,12 @@
     "static/media/oreo.png": "/braissuarez-dev/static/media/oreo.0ef94d7e6c25d73725d6.png",
     "static/media/Bebas-Regular.otf": "/braissuarez-dev/static/media/Bebas-Regular.4468171832950e2d1d82.otf",
     "index.html": "/braissuarez-dev/index.html",
-    "main.f6fd76f0.css.map": "/braissuarez-dev/static/css/main.f6fd76f0.css.map",
+    "main.50c6c9bb.css.map": "/braissuarez-dev/static/css/main.50c6c9bb.css.map",
     "main.f297891e.js.map": "/braissuarez-dev/static/js/main.f297891e.js.map",
     "787.71613bc9.chunk.js.map": "/braissuarez-dev/static/js/787.71613bc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6fd76f0.css",
+    "static/css/main.50c6c9bb.css",
     "static/js/main.f297891e.js"
   ]
 }
