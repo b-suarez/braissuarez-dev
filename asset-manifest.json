@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/braissuarez-dev/static/css/main.5dbbb9a1.css",
-    "main.js": "/braissuarez-dev/static/js/main.a1105df5.js",
+    "main.css": "/braissuarez-dev/static/css/main.f58d3982.css",
+    "main.js": "/braissuarez-dev/static/js/main.cd1471de.js",
     "static/js/787.71613bc9.chunk.js": "/braissuarez-dev/static/js/787.71613bc9.chunk.js",
     "static/media/old-spice.png": "/braissuarez-dev/static/media/old-spice.388730db95b69e7d017f.png",
     "static/media/fantasy-challenge.png": "/braissuarez-dev/static/media/fantasy-challenge.bddc2eec732bac048fcd.png",
-    "static/media/logo.png": "/braissuarez-dev/static/media/logo.57614d411a3e68091bbb.png",
     "static/media/vinil-icon.png": "/braissuarez-dev/static/media/vinil-icon.57614d411a3e68091bbb.png",
     "static/media/rkt.png": "/braissuarez-dev/static/media/rkt.5ed5f6e966a328ef8fe8.png",
     "static/media/mdlz-propensity.png": "/braissuarez-dev/static/media/mdlz-propensity.381bdcf7345ade0eada8.png",
@@ -21,12 +20,12 @@
     "static/media/oreo.png": "/braissuarez-dev/static/media/oreo.0ef94d7e6c25d73725d6.png",
     "static/media/Bebas-Regular.otf": "/braissuarez-dev/static/media/Bebas-Regular.4468171832950e2d1d82.otf",
     "index.html": "/braissuarez-dev/index.html",
-    "main.5dbbb9a1.css.map": "/braissuarez-dev/static/css/main.5dbbb9a1.css.map",
-    "main.a1105df5.js.map": "/braissuarez-dev/static/js/main.a1105df5.js.map",
+    "main.f58d3982.css.map": "/braissuarez-dev/static/css/main.f58d3982.css.map",
+    "main.cd1471de.js.map": "/braissuarez-dev/static/js/main.cd1471de.js.map",
     "787.71613bc9.chunk.js.map": "/braissuarez-dev/static/js/787.71613bc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dbbb9a1.css",
-    "static/js/main.a1105df5.js"
+    "static/css/main.f58d3982.css",
+    "static/js/main.cd1471de.js"
   ]
 }
