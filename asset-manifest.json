@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/braissuarez-dev/static/css/main.d5d2b2a3.css",
-    "main.js": "/braissuarez-dev/static/js/main.4c941d22.js",
+    "main.js": "/braissuarez-dev/static/js/main.0308e826.js",
     "static/js/787.71613bc9.chunk.js": "/braissuarez-dev/static/js/787.71613bc9.chunk.js",
     "static/media/old-spice.png": "/braissuarez-dev/static/media/old-spice.388730db95b69e7d017f.png",
     "static/media/fantasy-challenge.png": "/braissuarez-dev/static/media/fantasy-challenge.bddc2eec732bac048fcd.png",
@@ -20,11 +20,11 @@
     "static/media/Bebas-Regular.otf": "/braissuarez-dev/static/media/Bebas-Regular.4468171832950e2d1d82.otf",
     "index.html": "/braissuarez-dev/index.html",
     "main.d5d2b2a3.css.map": "/braissuarez-dev/static/css/main.d5d2b2a3.css.map",
-    "main.4c941d22.js.map": "/braissuarez-dev/static/js/main.4c941d22.js.map",
+    "main.0308e826.js.map": "/braissuarez-dev/static/js/main.0308e826.js.map",
     "787.71613bc9.chunk.js.map": "/braissuarez-dev/static/js/787.71613bc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5d2b2a3.css",
-    "static/js/main.4c941d22.js"
+    "static/js/main.0308e826.js"
   ]
 }
