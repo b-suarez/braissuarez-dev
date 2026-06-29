@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/braissuarez-dev/static/css/main.d5d2b2a3.css",
-    "main.js": "/braissuarez-dev/static/js/main.0308e826.js",
+    "main.js": "/braissuarez-dev/static/js/main.20b60994.js",
     "static/js/787.71613bc9.chunk.js": "/braissuarez-dev/static/js/787.71613bc9.chunk.js",
     "static/media/old-spice.png": "/braissuarez-dev/static/media/old-spice.388730db95b69e7d017f.png",
     "static/media/fantasy-challenge.png": "/braissuarez-dev/static/media/fantasy-challenge.bddc2eec732bac048fcd.png",
@@ -9,6 +9,8 @@
     "static/media/mdlz-propensity.png": "/braissuarez-dev/static/media/mdlz-propensity.381bdcf7345ade0eada8.png",
     "static/media/tokyo2020.png": "/braissuarez-dev/static/media/tokyo2020.753431b7661270b4da10.png",
     "static/media/caraicon.jpg": "/braissuarez-dev/static/media/caraicon.56cc4d6cc1058cb5f64c.jpg",
+    "static/media/team-liquid-white copy.png": "/braissuarez-dev/static/media/team-liquid-white copy.504f0940ba0b81853dc3.png",
+    "static/media/team-liquid-white.png": "/braissuarez-dev/static/media/team-liquid-white.504f0940ba0b81853dc3.png",
     "static/media/lemans.ttf": "/braissuarez-dev/static/media/lemans.f367d5486a41c6ed62ce.ttf",
     "static/media/riot.png": "/braissuarez-dev/static/media/riot.896834d2c3b79acc1c8a.png",
     "static/media/digitale-nach.png": "/braissuarez-dev/static/media/digitale-nach.85ee8c8db88e186aab53.png",
@@ -20,11 +22,11 @@
     "static/media/Bebas-Regular.otf": "/braissuarez-dev/static/media/Bebas-Regular.4468171832950e2d1d82.otf",
     "index.html": "/braissuarez-dev/index.html",
     "main.d5d2b2a3.css.map": "/braissuarez-dev/static/css/main.d5d2b2a3.css.map",
-    "main.0308e826.js.map": "/braissuarez-dev/static/js/main.0308e826.js.map",
+    "main.20b60994.js.map": "/braissuarez-dev/static/js/main.20b60994.js.map",
     "787.71613bc9.chunk.js.map": "/braissuarez-dev/static/js/787.71613bc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5d2b2a3.css",
-    "static/js/main.0308e826.js"
+    "static/js/main.20b60994.js"
   ]
 }
